@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ua5EsYFBO7VG+1NMLqCklSCJBYKyY1Wg2eLeI+nnrbyXQPznST1BYljOLvAAhI9ud1QW7cbDeYE7ntxL9SyE7w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\JUANES\\Downloads\\c-sharp-academy-mvc-01-todo-vsc-master\\c-sharp-academy-mvc-01-todo-vsc-master\\Todo\\Todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUANES\\.nuget\\packages\\microsoft.data.sqlite\\5.0.13\\microsoft.data.sqlite.5.0.13.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.13\\microsoft.data.sqlite.core.5.0.13.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\JUANES\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

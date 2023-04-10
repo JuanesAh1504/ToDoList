@@ -1,0 +1,20 @@
+@model Tarea
+
+<form asp-action="Insertar" id="form-action" method="post" class="form-horizontal" role="form">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="row justify-content-center">
+        <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10">
+            <label asp-for="Todo.Descripcion" class="form-label"></label>
+            <input asp-for="Todo.Id" type="hidden" class="form-control" />
+            <input asp-for="Todo.Descripcion" class="form-control" />
+            <span asp-validation-for="Todo.Descripcion" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10 mt-3 mb-5">
+            <input type="submit" id="form-button" class="btn btn-success" value="Añadir tarea" />
+        </div>
+    </div>
+
+</form>
